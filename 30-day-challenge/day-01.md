@@ -1,11 +1,11 @@
-#Day 01 - Portfolio Kickoff
+# Day 01 - Portfolio Kickoff
 
-**Date:**2025-09-19
+**Date:** 2025-09-19
 
 
 ---
 
-##Goal
+## Goal
 set up the portfolio structure and document. the purpose of this 30-day SOC/Red team Challenge.
 
 ---
