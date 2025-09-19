@@ -21,4 +21,4 @@ Current level: Junior / early-career. I have hands-on lab experience and familia
 
 ## Contact
 - Email: d.zahidi1412@gmail.com
-- LinkedIn / Hack
+- [LinkedIn](https://www.linkedin.com/in/zahidi-d-kusuma-858aab185/) / [TryHackMe](https://tryhackme.com/p/d.zahidi1412)
