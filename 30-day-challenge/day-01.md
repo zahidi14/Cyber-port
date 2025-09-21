@@ -1,16 +1,16 @@
 # Day 01 - Portfolio Kickoff
 
-**Date:** 2025-09-19
+🗓️ 2025-09-19
 
 
 ---
 
-## Goal
+## 🎯 Goal
 set up the portfolio structure and document. the purpose of this 30-day SOC/Red team Challenge.
 
 ---
 
-## What I did
+## 🎬 What I did
 - Created Githun repo
 - Added main directories:
     -`/30-days-challenge/` - for dayli report
@@ -24,5 +24,5 @@ set up the portfolio structure and document. the purpose of this 30-day SOC/Red 
 
 ---
 
-## Notes / Reflection
+## 📋 Notes / Reflection
 Day 1 is about setting the foundation. This repo will grow step by step - not a polished showcase yet, but a record of consistent practice. The goal is to demonstrate learning, reproducibility, and real lab work I can take responsibility for.
