@@ -4,10 +4,9 @@
 
 ---
 ## 🎯 Goal
-Day 3 after getting our lab set up, let start collecting some sample log. we'll break down the goal in to 3:
-1. Fill gaps with syntethic logs
-2. Collect real linux auth logs
-3. Export windows event or sysmon log
+Day 3 after getting our lab set up, let start collec  ting some sample log. we'll break down the goal in to :
+1. Collect real linux auth logs
+2. Export windows event or sysmon log
 
 ---
 

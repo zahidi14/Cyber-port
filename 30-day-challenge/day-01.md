@@ -6,12 +6,12 @@
 ---
 
 ## 🎯 Goal
-set up the portfolio structure and document. the purpose of this 30-day SOC/Red team Challenge.
+This portfolio documents my 30-day SOC and Red Team Challenge, designed to strengthen both defensive and offensive cybersecurity skills. All activities are conducted in a controlled and isolated environment, built on a Proxmox server and a personal PC homelab.
 
 ---
 
 ## 🎬 What I did
-- Created Githun repo
+- Created Github repo
 - Added main directories:
     -`/30-days-challenge/` - for dayli report
     -`/homelab/` for blue team and red teamp projects
@@ -21,7 +21,9 @@ set up the portfolio structure and document. the purpose of this 30-day SOC/Red 
     - who i am
     - Focus areas
     - Ethics disclaimer
-
+- Setup proxmox server:
+    - add ubuntu server
+    - set up resource for the server.
 ---
 
 ## 📋 Notes / Reflection
